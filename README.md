@@ -66,4 +66,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/sha770/LeetLearn/tree/master/2232-adding-spaces-to-a-string) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
