@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/sha770/LeetLearn/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sha770/LeetLearn/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
