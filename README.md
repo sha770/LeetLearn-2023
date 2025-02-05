@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sha770/LeetLearn/tree/master/0812-rotate-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2232-adding-spaces-to-a-string](https://github.com/sha770/LeetLearn/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
