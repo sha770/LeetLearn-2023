@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sha770/LeetLearn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -106,4 +107,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
