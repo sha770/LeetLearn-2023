@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/sha770/LeetLearn/tree/master/0812-rotate-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sha770/LeetLearn/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2232-adding-spaces-to-a-string](https://github.com/sha770/LeetLearn/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/sha770/LeetLearn/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/sha770/LeetLearn/tree/master/2645-pass-the-pillow) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sha770/LeetLearn/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/sha770/LeetLearn/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sha770/LeetLearn/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
