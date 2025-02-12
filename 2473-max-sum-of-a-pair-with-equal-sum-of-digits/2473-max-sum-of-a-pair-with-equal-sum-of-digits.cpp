@@ -10,7 +10,7 @@ public:
         return sum;
     }
     int maximumSum(vector<int>& nums) {
-        unordered_map<int,vector<int>>mp;
+       /* unordered_map<int,vector<int>>mp;
         for(int i=0;i<nums.size();i++){
             int sumd=sum_of_digit(nums[i]);
             mp[sumd].push_back(i);
@@ -32,7 +32,22 @@ public:
             }
             
         }
-        return maxi;
+        return maxi;*/
+        //better space =>
+         unordered_map<int, int> freq;
+        int res = -1;
+
+        for (int num : nums) {
+            int key = sum_of_digit(num);
+            if (freq.find(key) != freq.end()) {
+                res = max(res, freq[key] + num);
+                freq[key] = max(freq[key], num);
+            } else {
+                freq[key] = num;
+            }
+        }
+
+        return res;
         
     }
 };
