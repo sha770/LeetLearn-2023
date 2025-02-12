@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/sha770/LeetLearn/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/sha770/LeetLearn/tree/master/2448-count-number-of-bad-pairs) |
