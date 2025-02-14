@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sha770/LeetLearn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sha770/LeetLearn/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/sha770/LeetLearn/tree/master/2448-count-number-of-bad-pairs) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -146,4 +149,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sha770/LeetLearn/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/sha770/LeetLearn/tree/master/3447-clear-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
