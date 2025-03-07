@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sha770/LeetLearn/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sha770/LeetLearn/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -170,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
