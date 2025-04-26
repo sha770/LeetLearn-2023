@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sha770/LeetLearn/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sha770/LeetLearn/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sha770/LeetLearn/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sha770/LeetLearn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
