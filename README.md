@@ -114,11 +114,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sha770/LeetLearn/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sha770/LeetLearn/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sha770/LeetLearn/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sha770/LeetLearn/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sha770/LeetLearn/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
