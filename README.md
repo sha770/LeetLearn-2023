@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sha770/LeetLearn/tree/master/0455-assign-cookies) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sha770/LeetLearn/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -203,4 +205,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sha770/LeetLearn/tree/master/1229-shortest-path-with-alternating-colors) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
