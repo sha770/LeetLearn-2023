@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sha770/LeetLearn/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/sha770/LeetLearn/tree/master/0137-single-number-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
