@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sha770/LeetLearn/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sha770/LeetLearn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -204,11 +205,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
