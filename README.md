@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sha770/LeetLearn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sha770/LeetLearn/tree/master/1477-product-of-the-last-k-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1710-maximum-units-on-a-truck](https://github.com/sha770/LeetLearn/tree/master/1710-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sha770/LeetLearn/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sha770/LeetLearn/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sha770/LeetLearn/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1710-maximum-units-on-a-truck](https://github.com/sha770/LeetLearn/tree/master/1710-maximum-units-on-a-truck) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sha770/LeetLearn/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/sha770/LeetLearn/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/sha770/LeetLearn/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sha770/LeetLearn/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1710-maximum-units-on-a-truck](https://github.com/sha770/LeetLearn/tree/master/1710-maximum-units-on-a-truck) |
 | [1880-largest-merge-of-two-strings](https://github.com/sha770/LeetLearn/tree/master/1880-largest-merge-of-two-strings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sha770/LeetLearn/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
