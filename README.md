@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sha770/LeetLearn/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/sha770/LeetLearn/tree/master/0867-transpose-matrix) |
 | [1364-tuple-with-same-product](https://github.com/sha770/LeetLearn/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sha770/LeetLearn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/sha770/LeetLearn/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/sha770/LeetLearn/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sha770/LeetLearn/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sha770/LeetLearn/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/sha770/LeetLearn/tree/master/0867-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
