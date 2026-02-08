@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sha770/LeetLearn/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sha770/LeetLearn/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/sha770/LeetLearn/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/sha770/LeetLearn/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/sha770/LeetLearn/tree/master/0152-maximum-product-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
