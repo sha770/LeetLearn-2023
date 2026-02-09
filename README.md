@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sha770/LeetLearn/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sha770/LeetLearn/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sha770/LeetLearn/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sha770/LeetLearn/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sha770/LeetLearn/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sha770/LeetLearn/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sha770/LeetLearn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sha770/LeetLearn/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/sha770/LeetLearn/tree/master/0867-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
