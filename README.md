@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/sha770/LeetLearn/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sha770/LeetLearn/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/sha770/LeetLearn/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sha770/LeetLearn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sha770/LeetLearn/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/sha770/LeetLearn/tree/master/0284-peeking-iterator) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sha770/LeetLearn/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sha770/LeetLearn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sha770/LeetLearn/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sha770/LeetLearn/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sha770/LeetLearn/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sha770/LeetLearn/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sha770/LeetLearn/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/sha770/LeetLearn/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/sha770/LeetLearn/tree/master/0867-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sha770/LeetLearn/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -241,4 +244,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sha770/LeetLearn/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sha770/LeetLearn/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
